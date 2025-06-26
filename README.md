@@ -12,16 +12,16 @@ O objetivo deste projeto é consolidar o aprendizado de tópicos essenciais em J
 ## 📁 Estrutura do Projeto
 
 9-js-exercises/
-└── js-exercises/
-├── 01-validar-datas.js
-├── 02-jogo-adivinhacao.js
-├── 03-palavras-unicas.js
-├── 04-fatorial-recursivo.js
-├── 05-debounce.js
-├── 06-memoization.js
-├── 07-map-ordem.js
-├── 08-agrup-prop.js
-└── 09-conversao-formatos.js 
+js-exercises/
+01-validar-datas.js
+02-jogo-adivinhacao.js
+03-palavras-unicas.js
+04-fatorial-recursivo.js
+05-debounce.js
+06-memoization.js
+07-map-ordem.js
+08-agrup-prop.js
+09-conversao-formatos.js 
 
 ## ⚙️ Como Executar os Exercícios
 
